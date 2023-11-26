@@ -13,4 +13,4 @@ El siguiente enlace está conectado a un repositorio de Git donde se encuentra e
 
 ## Videos:
 * Enlace video 1: https://youtu.be/pFO1jcJfZ5I
-* Enlace video 2:
+* Enlace video 2: https://youtu.be/4P5iz7uYpJo?si=sBQrGp8zY6odQ0xC
